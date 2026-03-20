@@ -26,7 +26,7 @@ grc-portfolio/
 │   └── soc2-cis-fsbp-mapping.xlsx          # CIS and FSBP controls mapped to SOC 2 TSC
 │
 ├── security-questionnaires/
-│   └── sig-lite-sample-response.md          # Completed SIG Lite questionnaire response
+│   └── sig-lite-sample-response.docx          # Completed SIG Lite questionnaire response
 │
 ├── vendor-risk/
 │   └── vendor-risk-assessment-template.xlsx # Third-party vendor risk intake and scoring
